@@ -1,6 +1,10 @@
 # PhoneGapBuild-APK-Download-Install
 An Android APP to create shortcuts for download an APK and installing it.
 
+# TODO
+- 偵測網頁要開啟的檔案類型或網址是否是APK...還是算了
+
+
 - GitHub: https://github.com/pulipulichen/PhoneGap-ShareToEvent
 - PhoneGap Build: https://build.phonegap.com/apps/3176725/builds
 
